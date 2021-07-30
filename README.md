@@ -1,8 +1,8 @@
 ### Olá, meu nome é Francisnei 🤓
 
-👨‍🎓 Estudando de Ciência da Computação
-💻 Full stack developer 
-🔥 React.js
+* 👨‍🎓 Estudante de Ciência da Computação
+* 💻 Full stack developer 
+* 🔥 React.js
 
  <div>
   <a href="https://github.com/Francisneibl">
